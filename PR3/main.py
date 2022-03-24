@@ -3,3 +3,6 @@ def main(b, a, n, y):
         for j in range (1, a):
             for k in range (1, n):
                 
+
+# just fot trpp
+
